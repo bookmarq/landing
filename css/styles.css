@@ -353,6 +353,7 @@ header .intro-section .standard-button {
 header .phone-image {
     max-width: 350px;
     margin: auto;
+		margin-right: 10px;
     margin-bottom: 50px;
 }
 
