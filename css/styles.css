@@ -172,14 +172,14 @@ h5 {
 
 .standard-button,
 .standard-button2 {
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 400 !important;
     border-radius: 4px !important;
     text-shadow: 0 !important;
     color: #ffffff;
     min-width: 150px;
     border: none;
-    padding: 16px 25px 16px 25px;
+    padding: 7px 20px 7px 20px;
     margin: 5px;
     -webkit-transition: all ease 0.25s;
             transition: all ease 0.25s;
@@ -715,7 +715,7 @@ object {
 }
 
 .subscription-form .input-box {
-    height: 57px;
+    height: 37px;
     padding-left: 20px;
     width: 320px;
     -webkit-box-shadow: none;
