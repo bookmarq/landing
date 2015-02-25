@@ -357,7 +357,7 @@ header .phone-image {
 }
 
 header .phone-image img {
-    width: 100%;
+    width: 80%;
 }
 
 header .intro-section .intro {
@@ -436,7 +436,7 @@ header .intro-section .buttons {
 }
 
 .features .phone-image img {
-    width: 100%;
+    width: 80%;
 }
 
 
@@ -460,7 +460,7 @@ header .intro-section .buttons {
 }
 
 .app-brief .phone-image img {
-    width: 100%;
+    width: 80%;
 }
 
 .app-brief .left-align {
