@@ -196,9 +196,9 @@ RESPONSIVE FIXES
 
     .standard-button,
     .standard-button2 {
-        font-size: 15px;
+        font-size: 10px;
         min-width: 100px;
-        padding: 11px 20px 11px 20px;
+        padding: 10px 20px 10px 20px;
     }
 
     .features .feature:hover .icon-container .icon, 
