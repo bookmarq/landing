@@ -710,11 +710,11 @@ object {
     padding-bottom: 80px;
 }
 
-.download .subscription-form-container {
+.subscription-form-container {
     padding-bottom: 80px;
 }
 
-.download .subscription-form .input-box {
+.subscription-form .input-box {
     height: 57px;
     padding-left: 20px;
     width: 320px;
@@ -724,14 +724,14 @@ object {
     border: 2px solid #FFF;
 }
 
-.download .subscription-form .input-box:focus, 
-.download .subscription-form .input-box:active {
+.subscription-form .input-box:focus, 
+.subscription-form .input-box:active {
     color: #000;
     font-weight: 400;
 }
 
-.download .subscription-form .subscription-success,
-.download .subscription-form .subscription-error {
+.subscription-form .subscription-success,
+.subscription-form .subscription-error {
     display: none;
 }
 
