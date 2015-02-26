@@ -351,6 +351,32 @@ header .intro-section .standard-button {
     margin: 0;
 }
 
+header .subscription-form-container {
+    padding-bottom: 80px;
+}
+
+header .subscription-form .input-box {
+    height: 37px;
+    padding-left: 20px;
+    width: 320px;
+    -webkit-box-shadow: none;
+            box-shadow: none;
+    background: #FFF;
+    border: 2px solid #FFF;
+}
+
+header .subscription-form .input-box:focus, 
+header .subscription-form .input-box:active {
+    color: #000;
+    font-weight: 400;
+}
+
+header .subscription-form .subscription-success,
+header .subscription-form .subscription-error {
+    display: none;
+		color: #fff;
+}
+
 header .phone-image {
     max-width: 350px;
     margin: auto;
@@ -697,7 +723,7 @@ object {
 -----------------------------------------*/
 
 .download {
-    background: url('../images/bg-3.jpg') no-repeat center fixed;
+    background: url('../images/bg-5.jpg') no-repeat center fixed;
     -webkit-background-size: cover;
             background-size: cover;
     color: #ffffff;
@@ -712,11 +738,11 @@ object {
     padding-bottom: 80px;
 }
 
-.subscription-form-container {
+.download .subscription-form-container {
     padding-bottom: 80px;
 }
 
-.subscription-form .input-box {
+.download .subscription-form .input-box {
     height: 37px;
     padding-left: 20px;
     width: 320px;
@@ -726,14 +752,14 @@ object {
     border: 2px solid #FFF;
 }
 
-.subscription-form .input-box:focus, 
-.subscription-form .input-box:active {
+.download .subscription-form .input-box:focus, 
+.download .subscription-form .input-box:active {
     color: #000;
     font-weight: 400;
 }
 
-.subscription-form .subscription-success,
-.subscription-form .subscription-error {
+.download .subscription-form .subscription-success,
+.download .subscription-form .subscription-error {
     display: none;
 		color: #fff;
 }
