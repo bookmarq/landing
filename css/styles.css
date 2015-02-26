@@ -340,6 +340,7 @@ header .only-logo .navbar .navbar-header {
 
 header .home-contents {
     margin-top: 7%;
+		margin-left: 7%;
 }
 
 header .intro-section {
@@ -437,7 +438,7 @@ header .intro-section .buttons {
 }
 
 .features .phone-image img {
-    width: 80%;
+    width: 100%;
 }
 
 
@@ -734,6 +735,7 @@ object {
 .subscription-form .subscription-success,
 .subscription-form .subscription-error {
     display: none;
+		color: #fff;
 }
 
 .download h2 {
