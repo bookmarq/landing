@@ -168,9 +168,7 @@ li {
 }
 
 .social-icons {
-    margin-top: 500px;
-    border-bottom: 1px solid #e5e5e5;
-    padding-bottom: 30px;
+    margin-top: 150px;
 }
 
 .social-icons li {
@@ -186,7 +184,7 @@ li {
 .copyright {
     color: #808080;
     padding-top: 10px;
-    margin-bottom: 50px;
+    margin-bottom: 20px;
 }
 
 /*---------------------------------------
@@ -286,12 +284,12 @@ h5 {
     left: 20%;
     min-height: 676px;
     width: 80%;
-    background: url('../images/iphone-skeleton.png') no-repeat center center;
+    background: url('../images/iphone-skeleton.png') no-repeat;
 }
 .device-content {
     position: absolute;
     top: 115px;
-    left: 92px;
+    left: 56px;
     width: 247px;
     height: 445px;
     background: rgba(0, 0, 0, 0.3);
