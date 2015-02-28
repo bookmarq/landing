@@ -13,7 +13,7 @@ html {
 }
 
 body {
-    background: url(../images/bg-4.jpg) no-repeat center top;
+    background: url(../images/bg.jpg) no-repeat center top;
     -webkit-background-size: cover;
             background-size: cover;
     font-family: 'Roboto', sans-serif;
@@ -168,7 +168,7 @@ li {
 
 .social-icons {
     margin-top: 290px;
-		margin-left: 290px;
+		align-content: center;
 }
 
 .social-icons li {
@@ -181,9 +181,13 @@ li {
     color: #c2c2c2;
 }
 
+.social-icons li a:hover {
+    color: #008ed6;
+}
+
 .copyright {
-    color: #808080;
-    margin-left: 250px;
+    color: #c2c2c2;
+    align-content: center;
 }
 
 /*---------------------------------------
@@ -245,6 +249,17 @@ h5 {
 /*---------------------------------------
    CUSTOM BUTTON              
 -----------------------------------------*/
+.standard-button {
+    background: #008ed6;
+}
+
+.standard-button2 {
+    background: #008ed6;
+}
+
+.standard-button2:hover {
+    background: #005885;
+}
 
 .standard-button,
 .standard-button2 {
