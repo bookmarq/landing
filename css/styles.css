@@ -168,7 +168,8 @@ li {
 }
 
 .social-icons {
-    margin-top: 150px;
+    margin-top: 350px;
+		margin-left: 290px;
 }
 
 .social-icons li {
@@ -183,7 +184,7 @@ li {
 
 .copyright {
     color: #808080;
-    padding-top: 10px;
+    padding-top: 200px;
     margin-bottom: 20px;
 }
 
